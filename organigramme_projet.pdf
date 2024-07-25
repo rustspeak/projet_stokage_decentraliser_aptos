@@ -1,0 +1,20 @@
+my-storage-project/
+├── backend/
+│   ├── Cargo.toml
+│   ├── src/
+│   │   ├── main.rs
+│   │   ├── handlers.rs
+│   │   ├── model.rs
+│   │   └── services.rs
+├── frontend/
+│   ├── Cargo.toml
+│   ├── src/
+│   │   ├── main.rs
+│   │   ├── app.rs
+│   │   └── components/
+│   │       ├── upload_form.rs
+│   │       ├── project_list.rs
+├── Move/
+│   ├── Storage.move
+├── README.md
+└── .gitignore
